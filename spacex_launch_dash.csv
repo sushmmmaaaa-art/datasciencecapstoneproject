@@ -1,0 +1,6 @@
+FlightNumber,LaunchSite,PayloadMass,BoosterVersionCategory,class
+1,CCSFS SLC-40,6104.959,Falcon 9,0
+2,CCSFS SLC-40,525.0,Falcon 9,0
+3,CCSFS SLC-40,677.0,Falcon 9,0
+4,VAFB SLC-4E,500.0,Falcon 9,0
+5,CCSFS SLC-40,3170.0,Falcon 9,0
