@@ -1,0 +1,6 @@
+FlightNumber,PayloadMass,Flights,Block,ReusedCount,Orbit_ES-L1,Orbit_GEO,Orbit_GTO,Orbit_HEO,Orbit_ISS,Orbit_LEO,Orbit_MEO,Orbit_PO,Orbit_SO,Orbit_SSO,Orbit_VLEO,LaunchSite_CCAFS LC-40,LaunchSite_CCAFS SLC-40,LaunchSite_KSC LC-39A,LaunchSite_VAFB SLC-4E,class
+1,6104.959,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+2,525.0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+3,677.0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+4,500.0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+5,3170.0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
