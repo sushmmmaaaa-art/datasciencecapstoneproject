@@ -1,0 +1,6 @@
+FlightNumber,Date,BoosterVersion,PayloadMass,Orbit,LaunchSite,Outcome,Flights,GridFins,Reused,Legs,LandingPad,Block,ReusedCount,Serial,Longitude,Latitude,class
+1,2010-06-04,Falcon 9,6104.959,LEO,CCSFS SLC-40,None None,1,False,False,False,,1,0,B0003,-80.577366,28.561857,0
+2,2012-05-22,Falcon 9,525.0,LEO,CCSFS SLC-40,None None,1,False,False,False,,1,0,B0005,-80.577366,28.561857,0
+3,2013-03-01,Falcon 9,677.0,ISS,CCSFS SLC-40,None None,1,False,False,False,,1,0,B0007,-80.577366,28.561857,0
+4,2013-09-29,Falcon 9,500.0,PO,VAFB SLC-4E,False Ocean,1,False,False,False,,1,0,B1003,-120.610829,34.632093,0
+5,2013-12-03,Falcon 9,3170.0,GTO,CCSFS SLC-40,None None,1,False,False,False,,1,0,B1004,-80.577366,28.561857,0
