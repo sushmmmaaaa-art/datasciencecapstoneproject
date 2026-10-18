@@ -1,0 +1,23 @@
+spacex-falcon9-capstone-project/
+│
+├── README.md                          # Project overview, objectives, and summary of findings
+├── notebooks/                         # Jupyter Notebooks (.ipynb)
+│   ├── 01_data_collection_api.ipynb
+│   ├── 02_data_collection_web_scraping.ipynb
+│   ├── 03_data_wrangling.ipynb
+│   ├── 04_eda_sql.ipynb
+│   ├── 05_eda_dataviz_folium.ipynb
+│   ├── 06_plotly_dash.ipynb
+│   └── 07_machine_learning_prediction.ipynb
+│
+├── datasets/                          # CSV files and data sources
+│   ├── dataset_part_1.csv
+│   ├── dataset_part_2.csv
+│   ├── dataset_part_3.csv
+│   └── spacex_launch_dash.csv
+│
+├── scripts/                           # Python scripts / Dash app file
+│   └── spacex_dash_app.py
+│
+└── presentation/                      # Final PDF or presentation assets
+    └── spacex_capstone_presentation.pdf
